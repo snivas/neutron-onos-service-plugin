@@ -3,8 +3,8 @@ ONOSFP is a Neutron Service Plugin that interacts with ONOS SDN Controller throu
 
 About:
 
-     ONOSFP is a openstack neutron service plugin that interfaces with ONOS SDN Controller through REST interface 
-     to CRUD flow rules in to the switches.
+     ONOSFP is a openstack neutron service plugin that interfaces with ONOS SDN Controller through REST 
+     interface to CRUD flow rules in to the switches.
      Another objective is to have a step-by-step example for creating a complete neutron service plugin.
      
 Pre-Requisites
