@@ -13,7 +13,6 @@ from datetime import datetime
 
 
 class Flows(model_base.BASEV2, models_v2.HasId):
-    """Represents the HostStatistics."""
     __tablename__ = 'onosflows'
     deviceid = sa.Column(sa.String(255))
     port = sa.Column(sa.String(255))
