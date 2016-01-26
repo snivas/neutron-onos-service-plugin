@@ -51,3 +51,4 @@ Artifacts
         
 Currently working on to make full CRUD. Many of the values are hardcoded as it will be easy to understand.
             
+Please refer this blog http://virtualworkz.blogspot.in/2016/01/how-to-write-neutron-service-plugin.html for more details.
